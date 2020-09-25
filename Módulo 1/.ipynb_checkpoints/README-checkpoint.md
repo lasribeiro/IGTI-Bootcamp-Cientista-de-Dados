@@ -1,4 +1,3 @@
-
 # Módulo 1 - Fundamentos
 ## Objetivos:
 Exercitar os seguintes conceitos trabalhados no Módulo:
